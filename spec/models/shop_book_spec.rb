@@ -1,5 +1,5 @@
 require 'rails_helper'
-
+#ShopBook spec
 RSpec.describe ShopBook, type: :model do
 
   describe '#update_publisher_shop' do

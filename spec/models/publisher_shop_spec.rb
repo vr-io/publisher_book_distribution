@@ -1,5 +1,5 @@
 require 'rails_helper'
-
+#PublisherShop spec
 RSpec.describe PublisherShop, type: :model do
 
   describe '#update_books_sold_count' do
